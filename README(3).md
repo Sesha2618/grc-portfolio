@@ -51,14 +51,7 @@
 ### Frameworks
 - ISO 27001
 - NIST CSF
-- SOC 2
-- PCI DSS
-- HIPAA
 - GDPR
-- CMMC
-- CIS Controls
-
----
 
 ## 📁 Repository Structure
 
