@@ -67,8 +67,3 @@ grc-portfolio/
 ├── README.md          # This file
 ├── evidence/          # Screenshots and documentation
 └── portfolio.html     # Standalone portfolio page
-```
-
----
-
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 6/15/2026*
